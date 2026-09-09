@@ -1,0 +1,40 @@
+# Virtual Environment
+myenv/
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables / API keys
+.env
+.env.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Secrets
+*.pem
+*.key
+
+# Local data
+*.db
+*.sqlite3
